@@ -9,10 +9,6 @@ Hello! I'm a passionate developer who enjoys learning new technologies, building
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=c" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
 <img src="https://skillicons.dev/icons?i=python,c,git,github&perline=4" />
 
 
@@ -38,9 +34,7 @@ VS Code • Git • GitHub • Supabase
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,git,github&perline=4" />
-</p>
+
 ---
 
 ⭐ Always learning, always building.
