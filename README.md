@@ -9,7 +9,11 @@ Hello! I'm a passionate developer who enjoys learning new technologies, building
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,c,git,github&perline=4" height="60"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=c" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+
 
 </p>
 
