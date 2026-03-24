@@ -29,7 +29,7 @@ VS Code • Git • GitHub • Supabase
 ---
 
 ## 📈 GitHub Stats
-(https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
+(https://streak-stats.demolab.com?user=Anish-S-Kumar&theme=github-dark)
 ---
 
 ⭐ Always learning, always building.
