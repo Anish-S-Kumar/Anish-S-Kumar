@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://user-images.githubusercontent.com/74038190/212284100-561aa273-3920-440a-9d05-27b3fa873be8.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVrNm9oNDMxeng3cXRwc3Flb2lidm1yazAxdWp0OThuZXAxeXcwcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif
+)" width="100%" />
+</p>
 <h1 align="center">Hi there! I'm <a href="https://github.com/Anish-S-Kumar">Anish S Kumar</a> 🚀</h1>
 
 <p align="center">
