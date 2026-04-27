@@ -1,35 +1,55 @@
-# Anish.S.Kumar
-
-## 👋 About Me
-Hello! I'm a passionate developer who enjoys learning new technologies, building projects, and improving problem-solving skills.
+<h1 align="center">Hey 👋, I'm Anish S Kumar</h1>
+<h3 align="center">🚀 Developer | 💡 Problem Solver | 🔥 Always Building</h3>
 
 ---
 
-## 🚀 Skills
+## 🧠 About Me  
+💻 Passionate about building cool stuff with code  
+⚡ Love exploring new technologies  
+🎯 Focused on improving problem-solving skills  
+🚀 Currently leveling up in **Full Stack Development**
 
-<p align="left">
+---
 
-<img src="https://skillicons.dev/icons?i=python,c,git,github&perline=4" />
+## 🌌 Tech Stack  
 
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,git,github,html,css,js&theme=dark" />
 </p>
 
 ---
 
-## 📚 Currently Learning
-- Full Stack Development
-- Backend Concepts
-- Open Source Contribution
+## 🔥 Currently Learning  
+
+- 🌐 Full Stack Development  
+- ⚙️ Backend Engineering  
+- 🤝 Open Source Contributions  
 
 ---
 
-## 🛠️ Tools
-VS Code • Git • GitHub • Supabase
+## 🛠️ Tools I Use  
+
+💡 VS Code • Git • GitHub • Supabase  
 
 ---
 
-## 📈 GitHub Stats
-(https://streak-stats.demolab.com?user=Anish-S-Kumar&theme=github-dark)
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anish-S-Kumar&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anish-S-Kumar&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
-⭐ Always learning, always building.
+## ⚡ Fun Section  
+
+```text
+while(alive){
+   learn();
+   build();
+   improve();
+}
