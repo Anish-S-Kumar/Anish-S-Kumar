@@ -26,6 +26,32 @@
 
 ### 🌌 Tech Universe
 
-<p align="center">
-  <img src="[https://skillicons.dev/icons?i=html,css,js,python,c,supabase,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=html,css,js,python,c,supabase,git,github,vscode&theme=dark)" />
+## 🌌 Tech Universe
+
+### 🎨 Frontend & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend" />
 </p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,supabase,nodejs,express" alt="Backend" />
+</p>
+
+### 🛠️ Dev Tools & Environment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" alt="Tools" />
+</p>
+
+---
+
+## 📈 Growth Tracker
+
+**Frontend Development**
+![Frontend](https://geps.dev/progress/65?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+
+**Backend Engineering**
+![Backend](https://geps.dev/progress/45?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+
+**Problem Solving (C/Python)**
+![Logic](https://geps.dev/progress/80?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
