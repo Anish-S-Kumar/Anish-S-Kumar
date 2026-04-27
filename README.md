@@ -24,8 +24,6 @@
 
 ---
 
-### 🌌 Tech Universe
-
 ## 🌌 Tech Universe
 
 ### 🎨 Frontend & Core
