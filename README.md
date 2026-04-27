@@ -6,13 +6,26 @@
 
 ---
 
-### ⚡ Quick Overview
+### ⚡ The Dev Console
 
-```javascript
-const anish = {
-    code: ["Javascript", "Python", "C"],
-    tools: ["Git", "Supabase", "VS Code"],
-    architecture: ["Full Stack", "Backend Engineering"],
-    challenge: "Always leveling up my logic",
-    coffeeConsumed: Infinity
-};
+<div align="center">
+  
+| 🛠️ Domain | 🚀 Focus |
+| :--- | :--- |
+| **Current Stack** | JavaScript, Python, C |
+| **Backend** | Supabase, Node.js (Learning) |
+| **Tools** | Git, GitHub, VS Code |
+| **Status** | Leveling up to Full Stack |
+
+</div>
+
+> [!TIP]
+> **Current Mission:** Transforming logic into scalable applications.
+
+---
+
+### 🌌 Tech Universe
+
+<p align="center">
+  <img src="[https://skillicons.dev/icons?i=html,css,js,python,c,supabase,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=html,css,js,python,c,supabase,git,github,vscode&theme=dark)" />
+</p>
