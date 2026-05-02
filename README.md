@@ -94,8 +94,8 @@
 
 ## 💻 Terminal
 
-``
-> whoami
+
+> who am i
 Anish S Kumar
 
 > current_status
