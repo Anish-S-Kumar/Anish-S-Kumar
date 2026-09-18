@@ -121,7 +121,7 @@ Become a Full Stack Developer``
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-S-Kumar&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-S-Kumar &theme=tokyo-night" />
 </p>
 
 ---
@@ -129,7 +129,7 @@ Become a Full Stack Developer``
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Anish-S-Kumar/Anish-S-Kumar/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
