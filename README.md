@@ -115,18 +115,9 @@ Become a Full Stack Developer``
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish-S-Kumar&theme=tokyonight" />
 </p>
-
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-S-Kumar&theme=tokyo-night&hide_border=true" alt="Anish S Kumar's GitHub Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anish-S-Kumar/Anish-S-Kumar/gh-pages/github-contribution-grid-snake.svg" />
