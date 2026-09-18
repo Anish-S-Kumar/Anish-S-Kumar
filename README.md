@@ -88,21 +88,20 @@
 * ⚙️ Building Real-World Projects
 * 🚀 Improving Problem Solving
 
-> “Consistency beats intensity.”
 
 ---
 
 ## 💻 Terminal
 
+> who am i  
+> Anish S Kumar
+>
+> current_status  
+> Building. Learning. Improving.
+>
+> next_goal  
+> Become a Full Stack Developer
 
-> who am i
-Anish S Kumar
-
-> current_status
-Building. Learning. Improving.
-
-> next_goal
-Become a Full Stack Developer``
 
 ---
 
@@ -131,7 +130,6 @@ Become a Full Stack Developer``
 
 If you like this profile, consider giving a ⭐ to your favorite repositories!
 
-``
 
 ---
 
