@@ -121,7 +121,7 @@ Become a Full Stack Developer``
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-S-Kumar &theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-S-Kumar&theme=tokyo-night&hide_border=true" alt="Anish S Kumar's GitHub Activity Graph" />
 </p>
 
 ---
