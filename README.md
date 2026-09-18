@@ -129,7 +129,7 @@ Become a Full Stack Developer``
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anish-S-Kumar/Anish-S-Kumar/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Anish-S-Kumar/Anish-S-Kumar/gh-pages/github-contribution-grid-snake.svg" />
 </p>
 
 ---
