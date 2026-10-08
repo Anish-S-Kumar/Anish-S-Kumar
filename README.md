@@ -15,14 +15,6 @@
 
 ---
 
-## 🎮 Developer Stats
-
-* 🧠 Intelligence       ███████░░░ 70%
-* ⚡ Coding Speed            ██████░░░░ 60%
-* 🔥 Consistency             █████░░░░░ 50%
-* 🚀 Project Building        ████████░░ 80%
-
----
 
 ## 🗺️ Active Quests
 
