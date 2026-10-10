@@ -121,7 +121,19 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anish-S-Kumar/Anish-S-Kumar/gh-pages/github-contribution-grid-snake.svg" />
 </p>
+<!-- CONTRIBUTION SKYLINE -->
 
+<h2 align="center">🏙️ Contribution Skyline</h2>
+
+<p align="center">
+  <img
+    src="./assets/contribution-skyline.gif"
+    width="900"
+    alt="Animated GitHub Contribution Skyline"
+  />
+</p>
+
+<!-- END CONTRIBUTION SKYLINE -->
 ---
 
 ## ⭐ Final Note
